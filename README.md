@@ -1,0 +1,4 @@
+SeedProject
+===========
+
+Projeto semente.
