@@ -2,7 +2,7 @@ require.config({
   baseUrl: "scripts",
   paths: {
     'angular': 'lib/angular',
-    'angular-route': 'https://code.angularjs.org/1.3.0-beta.10/angular-route.min',
+    'angular-route': 'lib/angular-route',
     'angularAMD': 'lib/angular-amd'
   },
   shim: {
